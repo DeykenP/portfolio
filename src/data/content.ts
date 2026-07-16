@@ -34,11 +34,11 @@ export const skills: SkillGroup[] = [
   },
   {
     category: "Backend",
-    skills: ["Django", "Django REST Framework", "Python", "REST APIs", "JWT Authentication"],
+    skills: ["NestJS", "Django", "Django REST Framework", "Python", "REST APIs", "JWT Authentication"],
   },
   {
     category: "Database",
-    skills: ["PostgreSQL", "Supabase"],
+    skills: ["PostgreSQL", "Prisma", "Drizzle", "Supabase"],
   },
   {
     category: "Tools",
