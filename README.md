@@ -2,7 +2,7 @@
 
 Personal portfolio site, built to show recruiters real, working software rather than a template.
 
-**Live:** [PLACEHOLDER: deployed URL]
+**Live:** [portfolio-jet-tau-62.vercel.app](https://portfolio-jet-tau-62.vercel.app)
 
 ## Stack
 
